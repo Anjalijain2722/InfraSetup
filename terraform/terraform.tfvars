@@ -1,0 +1,6 @@
+region        = "us-east-1"
+bucket_name   = "my-cloudfront-log-bucket"
+key_name      = "my-key-pair"
+ami_id        = "ami-12345678"
+instance_type = "t3.medium"
+origin_domain = "example.s3.amazonaws.com"
